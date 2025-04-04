@@ -1,2 +1,1 @@
-# Infections
-Infections 
+This project explores Healthcare-Associated Infections (HAIs) using SQL for data cleaning and Power BI for insights and visualizations. The goal is to understand trends, identify potential risk factors, and demonstrate how BI can support better healthcare decisions.
